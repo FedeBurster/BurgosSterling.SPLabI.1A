@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1593615203 source:c:\users\federico\desktop\burgossterling.splabi.1a\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"paises.h"
+
+1593608065 c:\users\federico\desktop\burgossterling.splabi.1a\linkedlist.h
+
+1593604999 c:\users\federico\desktop\burgossterling.splabi.1a\parser.h
+
+1593612975 c:\users\federico\desktop\burgossterling.splabi.1a\paises.h
+	"LinkedList.h"
+
+1593615039 source:c:\users\federico\desktop\burgossterling.splabi.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593615527 source:c:\users\federico\desktop\burgossterling.splabi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"burgos.h"
+	<time.h>
+	"Controller.h"
+	"paises.h"
+
+1593614959 source:c:\users\federico\desktop\burgossterling.splabi.1a\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"paises.h"
+	"LinkedList.h"
+	"burgos.h"
+
+1593613914 source:c:\users\federico\desktop\burgossterling.splabi.1a\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paises.h"
+
+1593615239 source:c:\users\federico\desktop\burgossterling.splabi.1a\burgos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"burgos.h"
+	"paises.h"
+
+1592081127 c:\users\federico\desktop\burgossterling.splabi.1a\burgos.h
+	"LinkedList.h"
+
+1593615145 c:\users\federico\desktop\burgossterling.splabi.1a\controller.h
+
